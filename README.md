@@ -13,7 +13,9 @@
   - Arrow Right: Seek forward 10 seconds.
   - Arrow Left: Seek backward 10 seconds.
   - ESC: will exit fullscreen mode.
-  
+
+![mediaPlayerUI](https://github.com/Abdulrahman295/Media-Player/assets/89452130/407c155a-d28f-4dc5-a3e6-5a26d1a9ef41)
+
 ### Dependencies
 The media player application has the following dependencies:
 - JavaFX: Required for the JavaFX UI components and media playback functionality.
