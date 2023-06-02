@@ -14,7 +14,7 @@
   - Arrow Left: Seek backward 10 seconds.
   - ESC: will exit fullscreen mode.
 
-![mediaPlayerUI](https://github.com/Abdulrahman295/Media-Player/assets/89452130/407c155a-d28f-4dc5-a3e6-5a26d1a9ef41)
+![MediaPlayerUI](https://github.com/Abdulrahman295/Media-Player/assets/89452130/5d4b3513-a4e7-4b8f-875c-9d68d70b0759)
 
 ### Dependencies
 The media player application has the following dependencies:
